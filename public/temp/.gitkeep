@@ -1,0 +1,3 @@
+// Since git only keeps the track of files only and not of folder , so to make git able to track the folders we make this (.gitkeep) file inside the folder , majorly this file does not contain any thing.
+
+// dev dependencies teri wo dependency hoti hai jo production mai use nhi hoti srif development phase mai use hoti hai..
